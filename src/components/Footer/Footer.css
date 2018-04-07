@@ -1,0 +1,9 @@
+.footer {
+    align-items: stretch;
+    display: flex;
+    width: stretch;
+}
+
+.footer > img {
+    margin: 0 auto;
+}

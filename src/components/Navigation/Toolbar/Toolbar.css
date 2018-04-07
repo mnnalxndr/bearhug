@@ -1,0 +1,19 @@
+.toolbar {
+    align-items: center;
+    display: inline-flex;
+    height: 80px;
+    width: stretch;
+    padding: 20px;
+}
+
+.header-text {
+    font-size: 35px;
+    font-family: Baloo;
+    text-transform: uppercase;
+}
+
+.links-wrapper {
+    float: right;
+    display: inline-flex;
+    margin-left: auto;
+}
