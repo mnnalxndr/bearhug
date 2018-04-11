@@ -13,7 +13,7 @@ class Artists extends Component {
             {
                 name: "Lila",
                 webLink: "https://www.example.com/web",
-                trackLink: "https://www.example.com/track",
+                trackLink: "https://soundcloud.com/lilaswainmusic/sets/light-it-up-ep",
                 image: alex
             },
             {
@@ -25,13 +25,13 @@ class Artists extends Component {
             {
                 name: "Santino",
                 webLink: "https://www.example.com/web",
-                trackLink: "https://www.example.com/track",
+                trackLink: "https://soundcloud.com/officialsantino/this-awakening",
                 image: alex
             },
             {
                 name: "Iroquois",
                 webLink: "https://www.example.com/web",
-                trackLink: "https://www.example.com/track",
+                trackLink: "https://iroquois-uk.bandcamp.com/track/single-file",
                 image: alex
             },
             {
@@ -43,7 +43,13 @@ class Artists extends Component {
             {
                 name: "Viridian",
                 webLink: "https://www.example.com/web",
-                trackLink: "https://www.example.com/track",
+                trackLink: "https://viridianstore.bandcamp.com/album/1",
+                image: alex
+            },
+            {
+                name: "IIII",
+                webLink: "https://www.example.com/web",
+                trackLink: "https://www.beatport.com/track/faith-feat-dinia-i-i-i-i-remix/7634638",
                 image: alex
             }
         ]
