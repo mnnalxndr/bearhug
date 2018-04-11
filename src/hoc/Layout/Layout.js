@@ -13,7 +13,7 @@ class Layout extends Component {
         return (
             <Wrapper>
                 <Toolbar />
-                <div>{this.props.children}</div>
+                {this.props.children}
                 <Footer />
             </Wrapper>
         )

@@ -1,0 +1,7 @@
+.Artists {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}

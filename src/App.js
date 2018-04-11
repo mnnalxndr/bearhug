@@ -1,11 +1,16 @@
 import React, { Component } from 'react';
-import Layout from "./containers/Layout/Layout";
+
+import Layout from "./hoc/Layout/Layout";
+import Artists from "./components/Artists/Artists";
+
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <Layout />
+      <Layout>
+        <Artists />
+      </Layout>
     );
   }
 }
